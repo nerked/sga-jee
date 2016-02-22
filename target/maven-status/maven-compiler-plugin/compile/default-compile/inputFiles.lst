@@ -1,0 +1,13 @@
+/home/oli/workspace/sga-jee/src/main/java/com/prueba/sga/eis/PersonaDao.java
+/home/oli/workspace/sga-jee/src/main/java/com/prueba/sga/servicio/UsuarioService.java
+/home/oli/workspace/sga-jee/src/main/java/com/prueba/sga/eis/PersonaDaoImpl.java
+/home/oli/workspace/sga-jee/src/main/java/com/prueba/sga/servicio/PersonaServiceImpl.java
+/home/oli/workspace/sga-jee/src/main/java/com/prueba/sga/domain/Persona.java
+/home/oli/workspace/sga-jee/src/main/java/com/prueba/sga/servicio/UsuarioServiceImpl.java
+/home/oli/workspace/sga-jee/src/main/java/com/prueba/sga/cliente/ClientePersonaService.java
+/home/oli/workspace/sga-jee/src/main/java/com/prueba/sga/eis/UsuarioDaoImpl.java
+/home/oli/workspace/sga-jee/src/main/java/com/prueba/sga/servicio/PersonaService.java
+/home/oli/workspace/sga-jee/src/main/java/com/prueba/sga/eis/UsuarioDao.java
+/home/oli/workspace/sga-jee/src/main/java/com/prueba/sga/servicio/PersonaServiceRemote.java
+/home/oli/workspace/sga-jee/src/main/java/com/prueba/sga/domain/Usuario.java
+/home/oli/workspace/sga-jee/src/main/java/com/prueba/sga/servicio/UsuarioServiceRemote.java
